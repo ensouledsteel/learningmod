@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "axis=y":    { "model": "learningmod:block/learning_block" },
+    "axis=z":     { "model": "learningmod:block/learning_block", "x": 90 },
+    "axis=x":     { "model": "learningmod:block/learning_block", "x": 90, "y": 90 }
+  }
+}

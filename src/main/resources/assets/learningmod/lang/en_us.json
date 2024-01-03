@@ -1,0 +1,7 @@
+{
+  "item.learningmod.learning_item": "Learning Item",
+  "item.learningmod.advanced_item": "Advanced Item",
+  "itemgroup.learningmod.learning_group": "Learning Mod Stuff",
+  "item.learningmod.advanced_item.tooltip": "HONK HONK HONK",
+  "block.learningmod.learning_block": "Learning Block"
+}
